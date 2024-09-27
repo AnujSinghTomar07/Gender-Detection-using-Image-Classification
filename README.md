@@ -1,4 +1,4 @@
-# Gender Detection using Image Classification
+# Gender Detection using Image Classification 
 
 ## Objective
 Develop a machine learning model to classify images into gender categories (Female and Male) using a dataset of images. The project involves preprocessing images, extracting features, and training a model to perform gender classification.
